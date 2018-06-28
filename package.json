@@ -1,0 +1,27 @@
+{
+  "name": "shopify-app-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwindeleon/shopify-app-nodejs.git"
+  },
+  "author": "Edwin De Leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwindeleon/shopify-app-nodejs/issues"
+  },
+  "homepage": "https://github.com/edwindeleon/shopify-app-nodejs#readme",
+  "dependencies": {
+    "cookie": "^0.3.1",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "nonce": "^1.0.4",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  }
+}
